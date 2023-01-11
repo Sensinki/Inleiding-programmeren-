@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ h1{
+     text-align: center;
+     margin-top: 100px;
+     margin-bottom: 50px;
+ }
+
+ p{
+     text-align: center;
+ }
+
+ button{
+     width: 100px;
+     height: 20px;
+     border-radius: 10px;
+     background-color: blueviolet;
+     color:antiquewhite;
+     margin: auto;
+     display: block;
+ }
+
+
+ html{
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+ }
+ .confetti{
+    background-image: url("https://media.giphy.com/media/PMV7yRpwGO5y9p3DBx/source.gif");
+    background-size: contain;
+    color: white
+ }
+ .confetti p{
+    font-size: 10em;
+ }
+ 
